@@ -1,9 +1,9 @@
 site_name: Mi Página Personal
-site_author: [IKer-Ortiz]
-site_url: https://[iker-ortiz0225].github.io
+site_author: Iker-Ortiz
+site_url: https://iker-ortiz0225.github.io
 
 theme:
-  name: readthedocs  # Prueba: material, mkdocs, readthedocs
+  name: dracula  # Prueba: material, mkdocs, readthedocs
 
 nav:
   - Inicio: index.md
