@@ -1,0 +1,14 @@
+site_name: Mi Página Personal
+site_author: [IKer-Ortiz]
+site_url: https://[iker-ortiz0225].github.io
+
+theme:
+  name: readthedocs  # Prueba: material, mkdocs, readthedocs
+
+nav:
+  - Inicio: index.md
+  - Sobre Mí: sobre-mi.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
+
+repo_url: https://github.com/iker-ortiz0225/iker-ortiz0225.github.io.git
