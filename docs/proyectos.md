@@ -1,3 +1,4 @@
+<!--
 # Proyectos
 
 ## [Nombre Proyecto 1]
@@ -9,5 +10,5 @@
 - **Descripción**: [descripción breve]  
 - **Tecnologías**: Grafana, Elastic
 - **Enlace**: [GitHub URL]
-
+-->
 

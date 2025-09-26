@@ -10,7 +10,9 @@ nav:
   - Sobre Mí: sobre-mi.md
   - Mis Estudios: mis-estudios.md
   - Experiencia Laboral: experiencia-laboral.md
-  - Proyectos: proyectos.md
+# - Proyectos: proyectos.md
   - Contacto: contacto.md
 
 repo_url: https://github.com/iker-ortiz0225/iker-ortiz0225.github.io.git
+
+
