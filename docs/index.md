@@ -1,14 +1,9 @@
 # ¡Hola! Soy Iker Ortiz
 
-Estudiante de Grado de especialización en Inteligencia Artificial y Big Data.
+Estudiante de Grado de especialización en Inteligencia Artificial y Big Data en el C.F Somorrostro.
 
-## Sobre mí
-Soy una persona responsable y trabajadora.
-Me adapto tanto al trabajo individual, como en equipo.
-Estoy dispuesto siempre a aprender y me gustaría desarrollar mi trabajo en el campo de la Inteligencia Artificial y
-Robótica.
+Si visitáis mi página, podeis conocer algo mas acerca de mí y de mis habilidades.
 
-## Proyectos destacados 
-- Proyecto 1: [descripción]
-- Proyecto 2: [descripción]
+¡Hasta pronto!
+
 
