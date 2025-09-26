@@ -1,19 +1,13 @@
 # EDUCACIÓN Y FORMACIÓN
 
-**CURSO DE ESPECIALIZACIÓN EN INTELIGENCIA ARTIFICIAL Y BIG DATA**  
-<br>
+<p style="margin:0"><strong>CURSO DE ESPECIALIZACIÓN EN INTELIGENCIA ARTIFICIAL Y BIG DATA</strong></p>
+<p style="margin:0 0 10px 0">Centro Formación Somorrostro — [ 16/09/2024 – Actual ]</p>
 
-Centro Formación Somorrostro [ 16/09/2024 – Actual ]
+<p style="margin:0"><strong>TÉCNICO SUPERIOR EN AUTOMATIZACIÓN Y ROBÓTICA INDUSTRIAL</strong></p>
+<p style="margin:0 0 10px 0">Centro Formación Somorrostro — [ 09/2020 – 02/2023 ]</p>
 
-**TÉCNICO SUPERIOR EN AUTOMATIZACIÓN Y ROBÓTICA INDUSTRIAL**  
-<br>
-
-Centro Formación Somorrostro [ 09/2020 – 02/2023 ]
-
-**TÉCNICO EN MANTENIMIENTO ELECTROMECÁNICO**  
-<br>
-
-Centro Formación Somorrostro [ 09/2018 – 06/2020 ]
+<p style="margin:0"><strong>TÉCNICO EN MANTENIMIENTO ELECTROMECÁNICO</strong></p>
+<p style="margin:0 0 10px 0">Centro Formación Somorrostro — [ 09/2018 – 06/2020 ]</p>
 
 País: España
 
@@ -30,12 +24,13 @@ Sitio web: https://openwebinars.net/academia/
 
 Lengua(s) materna(s): español
 
-Otro(s) idioma(s):
+**Otro(s) idioma(s):**
 
-Inglés                                                              EUSKERA  
-COMPRENSIÓN AUDITIVA B1                                             COMPRENSIÓN AUDITIVA B1  
-COMPRENSIÓN LECTORA B1  EXPRESIÓN ESCRITA B1                        COMPRENSIÓN LECTORA B1  EXPRESIÓN ESCRITA B1  
-PRODUCCIÓN ORAL B1  INTERACCIÓN ORAL B1                             PRODUCCIÓN ORAL B1  INTERACCIÓN ORAL B1
+| Inglés | Euskera |
+|---|---|
+| **COMPRENSIÓN AUDITIVA** B1 | **COMPRENSIÓN AUDITIVA** B1 |
+| **COMPRENSIÓN LECTORA** B1<br>**EXPRESIÓN ESCRITA** B1 | **COMPRENSIÓN LECTORA** B1<br>**EXPRESIÓN ESCRITA** B1 |
+| **PRODUCCIÓN ORAL** B1<br>**INTERACCIÓN ORAL** B1 | **PRODUCCIÓN ORAL** B1<br>**INTERACCIÓN ORAL** B1 |
 
 Niveles: A1 y A2 (usuario básico), B1 y B2 (usuario independiente), C1 y C2 (usuario competente)
 
