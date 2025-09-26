@@ -8,6 +8,8 @@ theme:
 nav:
   - Inicio: index.md
   - Sobre Mí: sobre-mi.md
+  - Mis Estudios: mis-estudios.md
+  - Experiencia Laboral: experiencia-laboral.md
   - Proyectos: proyectos.md
   - Contacto: contacto.md
 
